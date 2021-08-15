@@ -2,11 +2,13 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import mongoose from 'mongoose';
 import cors from 'cors';
+import dotenv from 'dotenv';
 
 import fantasyapiRoute from './routes/fantasyapiPlayers.js';
 import mongodbRoutes from './routes/mongodbPlayers.js';
 
 const app = express();
+dotenv.config();
 
 app.use(bodyParser.json({ extend: true }));
 app.use(bodyParser.urlencoded({ extended: true }));
