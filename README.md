@@ -1,6 +1,8 @@
 # F1FantasyBackend
-This is the backend of my F1 fantasy data tracker.
-This backend utilizes Express.js, Node.js, and MongoDB.
+This is the backend of my F1 fantasy data tracker. <br />
+This backend utilizes Express.js, Node.js, MongoDB, and JavaScript. <br />
+<br />
+<br />
 
 ## Set Up Instructions for Command Line
 1. source .env
