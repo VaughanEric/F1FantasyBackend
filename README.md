@@ -7,4 +7,4 @@ This backend utilizes Express.js, Node.js, MongoDB, and JavaScript.
 2. npm start
 
 ## Important Note
-Do not forget to also download the frontend of my F1 fantasy data tracker and run npm start on it as well.
+Do not forget to also download the frontend of my F1 fantasy data tracker.
